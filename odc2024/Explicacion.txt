@@ -1,0 +1,11 @@
+Integrantes del grupo:
+    Ignacio Hernandez, Valentín Diaz Aliaga, Clemente Ivetta
+	
+
+Ejercicio 1
+	Funcionalidad: En functions encontraran las funciones basicas con las que construimos todo el escenario, en layers cada	parte del escenario y en app.s el ensamblaje de estas en el orden adecuado.
+	Historia: Somos Nacho y Valentin jugando al Ping Pong en FAMAF
+
+Ejercicio 2
+	Funcionalidad: Lo mismo que en el ej1 pero con features en functions y layers p/ animar la pelota
+	Historia: Somos Nacho y Valentin jugando al Ping Pong en FAMAF en un loop infinito
